@@ -29,7 +29,7 @@ Function Start-MouseJiggler
    NAME:      Start-MouseJiggler
    AUTHOR:    breaking_digital
    LASTEDIT:  6/1/2021
-   #Requires -Version 3.0
+   #Requires -Version 5.0
   #>
 
   [CmdletBinding()]

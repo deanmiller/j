@@ -27,7 +27,7 @@ Function Start-MouseJiggler
 
   .Notes
    NAME:      Start-MouseJiggler
-   AUTHOR:    Dean Miller
+   AUTHOR:    breaking_digital
    LASTEDIT:  6/1/2021
    #Requires -Version 3.0
   #>
